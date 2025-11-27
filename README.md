@@ -15,7 +15,7 @@
 * Data Science
 * Frontend and Backend Web Development
 
-<img src="https://github-readme-stats-omega-mauve-67.vercel.app/api/?username=FaZeGHOSTbot&count_private=true&show_icons=true" alt="Top Languages" />
+<img src="https://github-readme-stats-omega-mauve-67.vercel.app/api/top-langs/?username=FaZeGHOSTbot&count_private=true&layout=compact" alt="Top Languages" />
 
 ## Programming Languages & Tools  
 <p>
@@ -88,6 +88,6 @@
   - :octocat: [My Resume](https://linktr.ee/lucifering)
   - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!! :grimacing: )
 
-![Drip's github stats](https://github-readme-stats.vercel.app/api?username=FaZeGHOSTbot&show_icons=true&hide=[%22issues%22])
+![Drip's github stats](https://github-readme-stats-omega-mauve-67.vercel.app/api/?username=FaZeGHOSTbot&count_private=true&show_icons=true)
  
  
