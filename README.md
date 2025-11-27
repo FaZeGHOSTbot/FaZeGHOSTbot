@@ -15,7 +15,7 @@
 * Data Science
 * Frontend and Backend Web Development
 
-<img src="https://github-readme-stats-omega-mauve-67.vercel.app/api/top-langs/?username=FaZeGHOSTbot&count_private=true&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats-omega-mauve-67.vercel.app/api/top-langs?username=FaZeGHOSTbot&count_private=true&layout=compact" alt="Top Languages" />
 
 ## Programming Languages & Tools  
 <p>
