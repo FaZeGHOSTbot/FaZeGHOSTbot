@@ -8,9 +8,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-deepanjansaha100@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:deepanjansaha100@gmail.com) 
 [![Youtube Channel](https://img.shields.io/badge/-LucifeRing-c14438?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/@LucifeRing)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=fazeghostbot&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
-</p>
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=fazeghostbot)
+
+<br>
+
 
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
