@@ -10,7 +10,7 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=FaZeGHOSTbot&color=blue)
+![Profile Views](https://hits.sh/github.com/FaZeGHOSTbot.svg?style=flat-square&label=Profile%20Views&color=blue)
 
 ---
 
