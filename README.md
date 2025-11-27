@@ -6,7 +6,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepanjan-saha-ds/)](https://www.linkedin.com/in/deepanjan-saha-ds/) [![Gmail Badge](https://img.shields.io/badge/-deepanjansaha100@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:deepanjansaha100@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-LucifeRing-c14438?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/@LucifeRing)
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=FaZeGHOSTbot&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=fazeghostbot&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
 </p>
 
 
