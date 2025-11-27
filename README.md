@@ -4,17 +4,15 @@
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-FaZeGHOSTbot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepanjan-saha-ds/)](https://www.linkedin.com/in/deepanjan-saha-ds/) 
-[![Gmail Badge](https://img.shields.io/badge/-deepanjansaha100@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:deepanjansaha100@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepanjan-saha-ds/)](https://www.linkedin.com/in/deepanjan-saha-ds/)  
+[![Gmail Badge](https://img.shields.io/badge/-deepanjansaha100@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:deepanjansaha100@gmail.com)  
 [![Youtube Channel](https://img.shields.io/badge/-LucifeRing-c14438?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/@LucifeRing)
 
-<br>
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=fazeghostbot)
+![Profile Views](https://komarev.com/ghpvc/?username=fazeghostbot&color=blue)
 
-<br>
-
-
+---
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
